@@ -1,1 +1,37 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjQwMCIgdmlld0JveD0iMCAwIDEyMDAgNDAwIiByb2xlPSJpbWciIGFyaWEtbGFiZWxsZWRieT0idGl0bGUgZGVzYyI+CiAgPHRpdGxlIGlkPSJ0aXRsZSI+V3l3eTU1IOKAlCBTbWFsbCBpZGVhcy4gUmVhbC13b3JsZCBzb2Z0d2FyZS48L3RpdGxlPgogIDxkZXNjIGlkPSJkZXNjIj5BIGx1bWlub3VzIGNvbXBhY3QgZGlzYywgb3JiaXRhbCBsaW5lcyBhbmQgYW4gYXVkaW8gd2F2ZWZvcm0gb24gYSBtaWRuaWdodCBiYWNrZ3JvdW5kLjwvZGVzYz4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmciIHgyPSIxIiB5Mj0iMSI+PHN0b3Agc3RvcC1jb2xvcj0iIzA4MGQyMCIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzE5MTEyZiIvPjwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImFjY2VudCI+PHN0b3Agc3RvcC1jb2xvcj0iIzU0ZTZlZCIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2I2OGNmZiIvPjwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImRpc2MiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj48c3RvcCBzdG9wLWNvbG9yPSIjZjNmNmZmIi8+PHN0b3Agb2Zmc2V0PSIuMjMiIHN0b3AtY29sb3I9IiM3YzkxYjgiLz48c3RvcCBvZmZzZXQ9Ii40IiBzdG9wLWNvbG9yPSIjYmNmOGY1Ii8+PHN0b3Agb2Zmc2V0PSIuNTIiIHN0b3AtY29sb3I9IiNmMGRjZmYiLz48c3RvcCBvZmZzZXQ9Ii43IiBzdG9wLWNvbG9yPSIjNzE4NGFiIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZWJlZGZmIi8+PC9saW5lYXJHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdyI+PHN0b3Agc3RvcC1jb2xvcj0iIzc1NTFkMiIgc3RvcC1vcGFjaXR5PSIuMzUiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM3NTUxZDIiIHN0b3Atb3BhY2l0eT0iMCIvPjwvcmFkaWFsR3JhZGllbnQ+CiAgICA8cGF0dGVybiBpZD0iZ3JpZCIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiBwYXR0ZXJuVW5pdHM9InVzZXJTcGFjZU9uVXNlIj48cGF0aCBkPSJNNDAgMEgwVjQwIiBmaWxsPSJub25lIiBzdHJva2U9IiNhMGI1ZGMiIHN0cm9rZS1vcGFjaXR5PSIuMDU1Ii8+PC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI0MDAiIHJ4PSIyMCIgZmlsbD0idXJsKCNiZykiLz4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI0MDAiIHJ4PSIyMCIgZmlsbD0idXJsKCNncmlkKSIvPgogIDxjaXJjbGUgY3g9Ijk1NSIgY3k9IjIwMCIgcj0iMjUwIiBmaWxsPSJ1cmwoI2dsb3cpIi8+CiAgPHBhdGggZD0iTTM2IDFIMTE2NCIgc3Ryb2tlPSJ1cmwoI2FjY2VudCkiIHN0cm9rZS13aWR0aD0iMiIvPgogIDxnIGZvbnQtZmFtaWx5PSJTZWdvZSBVSSxBcmlhbCxzYW5zLXNlcmlmIj4KICAgIDxyZWN0IHg9IjY0IiB5PSI2NSIgd2lkdGg9IjIwNCIgaGVpZ2h0PSIzMCIgcng9IjE1IiBmaWxsPSIjMTMyNjM4IiBzdHJva2U9IiMyODU1NjUiLz4KICAgIDxjaXJjbGUgY3g9IjgyIiBjeT0iODAiIHI9IjQiIGZpbGw9IiM1NGU2ZWQiLz4KICAgIDx0ZXh0IHg9Ijk2IiB5PSI4NSIgZmlsbD0iIzhlZjBlZSIgZm9udC1zaXplPSIxMiIgbGV0dGVyLXNwYWNpbmc9IjIiPlRIRSBQRVJTT05BTCBTSURFPC90ZXh0PgogICAgPHRleHQgeD0iNjAiIHk9IjE5NCIgZmlsbD0iI2YyZjVmZiIgZm9udC1zaXplPSI4NiIgZm9udC13ZWlnaHQ9Ijc1MCIgbGV0dGVyLXNwYWNpbmc9Ii00Ij5XeXd5NTU8dHNwYW4gZmlsbD0iIzY2ZTllZCI+LjwvdHNwYW4+PC90ZXh0PgogICAgPHRleHQgeD0iNjUiIHk9IjIzOSIgZmlsbD0iI2JhYzdkZCIgZm9udC1zaXplPSIyMyI+U21hbGwgaWRlYXMuIFJlYWwtd29ybGQgc29mdHdhcmUuPC90ZXh0PgogICAgPHBhdGggZD0iTTY1IDI3OEg2MjAiIHN0cm9rZT0iIzJlMzQ1MSIvPgogICAgPHRleHQgeD0iNjUiIHk9IjMxNSIgZmlsbD0iIzg2OTZiNyIgZm9udC1zaXplPSIxMyIgbGV0dGVyLXNwYWNpbmc9IjIiPkNVUlJFTlRMWSBCVUlMRElORzwvdGV4dD4KICAgIDx0ZXh0IHg9IjI4NSIgeT0iMzE2IiBmaWxsPSIjOTJlZGYwIiBmb250LXNpemU9IjE4IiBmb250LXdlaWdodD0iNjAwIj5DRCBSaXBwZXIgKyBTYWx1czwvdGV4dD4KICA8L2c+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoOTUzIDE5MikiPgogICAgPGNpcmNsZSByPSIxNjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2EyOGNlMCIgc3Ryb2tlLW9wYWNpdHk9Ii4xNSIvPgogICAgPGNpcmNsZSByPSIxNDYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzczZGRlOSIgc3Ryb2tlLW9wYWNpdHk9Ii4zIiBzdHJva2UtZGFzaGFycmF5PSIzIDEzIi8+CiAgICA8Y2lyY2xlIHI9IjEyNiIgZmlsbD0idXJsKCNkaXNjKSIvPgogICAgPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utb3BhY2l0eT0iLjIiPjxjaXJjbGUgcj0iMTE2Ii8+PGNpcmNsZSByPSIxMDkiLz48Y2lyY2xlIHI9IjEwMyIvPjxjaXJjbGUgcj0iOTUiLz48Y2lyY2xlIHI9Ijg4Ii8+PGNpcmNsZSByPSI4MCIvPjxjaXJjbGUgcj0iNzIiLz48Y2lyY2xlIHI9IjY0Ii8+PGNpcmNsZSByPSI1NSIvPjwvZz4KICAgIDxwYXRoIGQ9Ik0tOTAtODhMLTE4LTIxIDI4LTEyMkExMjYgMTI2IDAgMCAwLTkwLTg4TTg3IDkxTDE4IDIxLTI0IDEyNEExMjYgMTI2IDAgMCAwIDg3IDkxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuMjUiLz4KICAgIDxjaXJjbGUgcj0iMzUiIGZpbGw9IiM2ZDdhOTkiIHN0cm9rZT0iI2UyZWFmZiIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgICA8Y2lyY2xlIHI9IjE5IiBmaWxsPSIjMTAxNDJiIiBzdHJva2U9IiNhMmI4ZDgiIHN0cm9rZS13aWR0aD0iNCIvPgogIDwvZz4KICA8ZyBzdHJva2U9InVybCgjYWNjZW50KSIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiPgogICAgPHBhdGggZD0iTTgzNyAzNDl2LThtMTIgMTR2LTIwbTEyIDI3di0zNG0xMiAyMXYtOG0xMiAyMnYtMzZtMTIgMjR2LTEybTEyIDI5di00Nm0xMiAzN3YtMjhtMTIgMjF2LTE0bTEyIDI2di0zOG0xMiA0NXYtNTJtMTIgMzZ2LTIwbTEyIDI2di0zMm0xMiA0MHYtNDhtMTIgMzB2LTEybTEyIDI1di0zOG0xMiAzMHYtMjJtMTIgMTV2LThtMTIgMjF2LTM0bTEyIDI0di0xNCIvPgogIDwvZz4KPC9zdmc+Cg==
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Wywy55 — Small ideas. Real-world software.</title>
+  <desc id="desc">A luminous compact disc, orbital lines and an audio waveform on a midnight background.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080d20"/><stop offset="1" stop-color="#19112f"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#54e6ed"/><stop offset="1" stop-color="#b68cff"/></linearGradient>
+    <linearGradient id="disc" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f3f6ff"/><stop offset=".23" stop-color="#7c91b8"/><stop offset=".4" stop-color="#bcf8f5"/><stop offset=".52" stop-color="#f0dcff"/><stop offset=".7" stop-color="#7184ab"/><stop offset="1" stop-color="#ebedff"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7551d2" stop-opacity=".35"/><stop offset="1" stop-color="#7551d2" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a0b5dc" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="400" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="400" rx="20" fill="url(#grid)"/>
+  <circle cx="955" cy="200" r="250" fill="url(#glow)"/>
+  <path d="M36 1H1164" stroke="url(#accent)" stroke-width="2"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="64" y="65" width="204" height="30" rx="15" fill="#132638" stroke="#285565"/>
+    <circle cx="82" cy="80" r="4" fill="#54e6ed"/>
+    <text x="96" y="85" fill="#8ef0ee" font-size="12" letter-spacing="2">THE PERSONAL SIDE</text>
+    <text x="60" y="194" fill="#f2f5ff" font-size="86" font-weight="750" letter-spacing="-4">Wywy55<tspan fill="#66e9ed">.</tspan></text>
+    <text x="65" y="239" fill="#bac7dd" font-size="23">Small ideas. Real-world software.</text>
+    <path d="M65 278H620" stroke="#2e3451"/>
+    <text x="65" y="315" fill="#8696b7" font-size="13" letter-spacing="2">CURRENTLY BUILDING</text>
+    <text x="285" y="316" fill="#92edf0" font-size="18" font-weight="600">CD Ripper + Salus</text>
+  </g>
+  <g transform="translate(953 192)">
+    <circle r="165" fill="none" stroke="#a28ce0" stroke-opacity=".15"/>
+    <circle r="146" fill="none" stroke="#73dde9" stroke-opacity=".3" stroke-dasharray="3 13"/>
+    <circle r="126" fill="url(#disc)"/>
+    <g fill="none" stroke="#ffffff" stroke-opacity=".2"><circle r="116"/><circle r="109"/><circle r="103"/><circle r="95"/><circle r="88"/><circle r="80"/><circle r="72"/><circle r="64"/><circle r="55"/></g>
+    <path d="M-90-88L-18-21 28-122A126 126 0 0 0-90-88M87 91L18 21-24 124A126 126 0 0 0 87 91" fill="#fff" opacity=".25"/>
+    <circle r="35" fill="#6d7a99" stroke="#e2eaff" stroke-width="2"/>
+    <circle r="19" fill="#10142b" stroke="#a2b8d8" stroke-width="4"/>
+  </g>
+  <g stroke="url(#accent)" stroke-width="4" stroke-linecap="round">
+    <path d="M837 349v-8m12 14v-20m12 27v-34m12 21v-8m12 22v-36m12 24v-12m12 29v-46m12 37v-28m12 21v-14m12 26v-38m12 45v-52m12 36v-20m12 26v-32m12 40v-48m12 30v-12m12 25v-38m12 30v-22m12 15v-8m12 21v-34m12 24v-14"/>
+  </g>
+</svg>

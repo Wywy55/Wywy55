@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-labelledby="title">
+  <title id="title">One idea. One project. One commit at a time.</title>
+  <defs><linearGradient id="a"><stop stop-color="#54e6ed"/><stop offset="1" stop-color="#b68cff"/></linearGradient></defs>
+  <rect width="1200" height="130" rx="16" fill="#0c1225"/>
+  <g fill="none" stroke="url(#a)" stroke-width="2" opacity=".5"><path d="M0 65H130l10-12 10 24 10-40 10 56 10-42 10 26 10-12h90M910 65h90l10-12 10 24 10-40 10 56 10-42 10 26 10-12h130"/></g>
+  <text x="600" y="72" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#cad6ee">One idea. One project. One commit at a time.</text>
+</svg>
